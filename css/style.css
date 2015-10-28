@@ -1,0 +1,14 @@
+﻿#pageWrapper
+{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+img
+{
+    margin: 0 auto;
+    width: 500px;
+}
+#myCarousel
+{
+}
