@@ -1,20 +1,19 @@
-﻿#pageWrapper
+#pageWrapper
 {
     width: 900px;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 70px;
     background-color:#D3D3D3;
     margin-bottom: 20px;
 }
-img
-{
-    margin: 0 auto;
-    width: 500px;
-}
-#myCarousel
+img.display
 {
     border:solid;
     margin:10px;
+    margin: 0 auto;
+    width: 600px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 h1
 {
@@ -24,4 +23,12 @@ h3
 {
     text-align:center;
     padding:20px;
+}
+div.font1 {
+    font-family:inherit;
+    font-size:22px;
+}
+div.page-header {
+    font-family: inherit;
+    font-size: 35px;
 }
