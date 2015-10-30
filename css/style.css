@@ -3,6 +3,8 @@
     width: 900px;
     margin: 0 auto;
     margin-top: 20px;
+    background-color:#D3D3D3;
+    margin-bottom: 20px;
 }
 img
 {
@@ -11,4 +13,15 @@ img
 }
 #myCarousel
 {
+    border:solid;
+    margin:10px;
+}
+h1
+{
+    text-align:center;
+}
+h3
+{
+    text-align:center;
+    padding:20px;
 }
