@@ -3,18 +3,25 @@
     width: 900px;
     margin: 0 auto;
     margin-top: 20px;
-    background-color:#D3D3D3;
+    background-color:#F2F2F2;
     margin-bottom: 20px;
+    padding:20px;
+
+}
+body
+{
+    background-color:#5694A3;
+    color:tan;
 }
 img
 {
     margin: 0 auto;
-    width: 500px;
+    width:860px;
 }
-#myCarousel
+#carousel
 {
     border:solid;
-    margin:10px;
+    height:300px;
 }
 h1
 {
@@ -23,5 +30,11 @@ h1
 h3
 {
     text-align:center;
-    padding:20px;
+}
+#topNav
+{
+    width:900px;
+    margin: 0 auto;
+    margin-top:20px;
+    background-color:#F2F2F2;
 }
