@@ -17,6 +17,7 @@ img
 {
     margin: 0 auto;
     width:860px;
+    height: 294px !important;
 }
 #carousel
 {
@@ -37,4 +38,15 @@ h3
     margin: 0 auto;
     margin-top:20px;
     background-color:#F2F2F2;
+}
+#navPhone
+{
+    font-size:20px;
+    margin-left:20px;
+    margin-top:11px;
+}
+#locationThumbnail
+{
+    margin: 0 auto;
+    text-align: center;
 }
