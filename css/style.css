@@ -39,3 +39,8 @@ div.page-header {
     font-family: inherit;
     font-size: 30px;
 }
+img.thumbnail {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
