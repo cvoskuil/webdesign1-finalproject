@@ -45,8 +45,45 @@ h3
     margin-left:20px;
     margin-top:11px;
 }
-#locationThumbnail
+h2
 {
-    margin: 0 auto;
-    text-align: center;
+    text-align:center;
 }
+#keyWestMap
+{
+    width:410px;
+}
+#marathonMap
+{
+    width:410px;
+    margin-left:450px;
+}
+p
+{
+    width:300px;
+    padding:10px;
+    border:solid;
+    background-color:#5694A3;
+}
+#lock
+{
+    width:100px;
+    height:auto !important;
+    margin-bottom:10px;
+}
+#cleaningImg
+{
+    height:auto !important;
+    width: 300px;
+    border:solid;
+}
+a
+{
+    color:tan;
+    text-decoration:none !important;
+}
+a:hover
+{
+    color:#5694A3;
+}
+
