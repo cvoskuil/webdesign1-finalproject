@@ -1,0 +1,16 @@
+﻿#test{
+    filter:brightness(50%);
+    -webkit-filter:brightness(50%);
+    -moz-filter:brightness(50%);
+    width:1100px;
+    height:550px;
+}
+body
+{
+    background-color:#1C4144;
+}
+#backgroundImg
+{
+    width:1100px;
+    margin: 0 auto;
+}
