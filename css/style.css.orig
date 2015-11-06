@@ -1,0 +1,88 @@
+﻿#pageWrapper
+{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color:#F2F2F2;
+    margin-bottom: 20px;
+    padding:20px;
+
+}
+body
+{
+    background-color:#5694A3;
+    color:tan;
+}
+img
+{
+    margin: 0 auto;
+    width:860px;
+    height: 294px !important;
+}
+#carousel
+{
+    border:solid;
+    height:300px;
+}
+h1
+{
+    text-align:center;
+}
+h3
+{
+    text-align:center;
+}
+#topNav
+{
+    width:900px;
+    margin: 0 auto;
+    margin-top:20px;
+    background-color:#F2F2F2;
+}
+#navPhone
+{
+    font-size:20px;
+    margin-left:20px;
+    margin-top:11px;
+}
+h2
+{
+    text-align:center;
+}
+#keyWestMap
+{
+    width:410px;
+}
+#marathonMap
+{
+    width:410px;
+    margin-left:450px;
+}
+p
+{
+    width:300px;
+    padding:10px;
+    border:solid;
+}
+#lock
+{
+    width:100px;
+    height:auto !important;
+    margin-bottom:10px;
+}
+#cleaningImg
+{
+    height:auto !important;
+    width: 300px;
+    border:solid;
+}
+a
+{
+    color:tan;
+    text-decoration:none !important;
+}
+a:hover
+{
+    color:#5694A3;
+}
+

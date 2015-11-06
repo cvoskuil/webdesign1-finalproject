@@ -1,0 +1,47 @@
+li.inactive {
+    color: black;
+}
+#pageWrapper
+{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 70px;
+    background-color:#7C95B4;
+    margin-bottom: 20px;
+}
+img.display
+{
+    border:solid;
+    margin:10px;
+    margin: 0 auto;
+    width: 600px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+h1 {
+    color: black;
+    font-size: 35px;
+    font-family: inherit;
+}
+h5
+{
+    text-align:center;
+    padding:20px;
+}
+div.font1 {
+    font-family:inherit;
+    font-size:22px;
+}
+div.page-header {
+    font-family: inherit;
+    font-size: 30px;
+}
+img.thumbnail {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button.welcome {
+    width: 200px;
+    height:125px;
+}
