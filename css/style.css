@@ -1,8 +1,5 @@
-body.index {
-    background-color: #C7C8CA;
-}
-body.welcome {
-    background-image: yacht1.png;
+body {
+    background-image:url(C:\Users\cball\Documents\GitHub\webdesign1-finalproject\images\yacht1.png);
 }
 li.inactive {
     color: black;
