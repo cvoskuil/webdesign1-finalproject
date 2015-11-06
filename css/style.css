@@ -8,7 +8,6 @@ li.inactive {
     margin-top: 70px;
     background-color:#7C95B4;
     margin-bottom: 20px;
-    /*background-image:url(C:\Users\cball\Documents\GitHub\webdesign1-finalproject\images\yacht1.png);*/
 }
 img.display
 {
@@ -42,6 +41,7 @@ img.thumbnail {
     margin-left: auto;
     margin-right: auto;
 }
-button {
-    
+button.welcome {
+    width: 200px;
+    height:125px;
 }
