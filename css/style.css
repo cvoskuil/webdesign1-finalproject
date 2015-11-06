@@ -1,6 +1,3 @@
-body {
-    background-image:url(C:\Users\cball\Documents\GitHub\webdesign1-finalproject\images\yacht1.png);
-}
 li.inactive {
     color: black;
 }
@@ -11,6 +8,7 @@ li.inactive {
     margin-top: 70px;
     background-color:#7C95B4;
     margin-bottom: 20px;
+    /*background-image:url(C:\Users\cball\Documents\GitHub\webdesign1-finalproject\images\yacht1.png);*/
 }
 img.display
 {
@@ -43,4 +41,7 @@ img.thumbnail {
     width: 400px;
     margin-left: auto;
     margin-right: auto;
+}
+button {
+    
 }
