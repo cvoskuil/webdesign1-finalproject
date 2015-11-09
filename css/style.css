@@ -1,6 +1,6 @@
 #pageWrapper
 {
-    width: 900px;
+    width: 1000px;
     margin: 0 auto;
     margin-top: 20px;
     background-color:#F2F2F2;
@@ -16,7 +16,7 @@ body
 img
 {
     margin: 0 auto;
-    width:860px;
+    width:960px;
     height: 294px !important;
 }
 #carousel
@@ -34,7 +34,7 @@ h3
 }
 #topNav
 {
-    width:900px;
+    width:1000px;
     margin: 0 auto;
     margin-top:20px;
     background-color:#F2F2F2;
@@ -51,11 +51,11 @@ h2
 }
 #keyWestMap
 {
-    width:410px;
+    width:460px;
 }
 #marathonMap
 {
-    width:410px;
+    width:460px;
 }
 p
 {
