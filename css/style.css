@@ -1,4 +1,4 @@
-﻿#pageWrapper
+#pageWrapper
 {
     width: 900px;
     margin: 0 auto;
@@ -56,7 +56,6 @@ h2
 #marathonMap
 {
     width:410px;
-    margin-left:450px;
 }
 p
 {
