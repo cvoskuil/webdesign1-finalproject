@@ -8,6 +8,10 @@
     padding:20px;
 
 }
+#logo
+{
+    width:50px !important; height:30px !important;
+}
 body
 {
     background-color:#5694A3;
