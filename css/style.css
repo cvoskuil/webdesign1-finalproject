@@ -6,16 +6,25 @@
     background-color:#F2F2F2;
     margin-bottom: 20px;
     padding:20px;
-
 }
 #logo
 {
-    width:50px !important; height:30px !important;
+    width: 121px;
+    height: 31.7px !important;
+    position:relative;
+	bottom:6px;
+    left:50px
+}
+.navItem
+{
+    position:relative;
+    left:100px
 }
 body
 {
     background-color:#5694A3;
     color:tan;
+    font-family: 'Cabin', sans-serif;
 }
 img
 {
@@ -40,8 +49,8 @@ h3
 {
     width:1000px;
     margin: 0 auto;
-    margin-top:20px;
     background-color:#F2F2F2;
+    margin-top:20px;
 }
 #navPhone
 {
